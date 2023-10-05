@@ -1,0 +1,6 @@
+CREATE TABLE user_table(
+id BIGINT AUTO_INCREMENT,
+username VARCHAR(100),
+password VARCHAR(100),
+PRIMARY KEY (id)
+)
